@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="VISUALS"
-run/main_scene="res://inside_house.tscn"
+run/main_scene="res://village.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 
 [display]
