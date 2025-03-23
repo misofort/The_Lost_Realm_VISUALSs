@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dvtlihd4xbpvf"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Light_Brown_Statue.png-62873df2ccf20991bf5c1c2bcd93b739.ctex"
+uid="uid://sd1jdh5j3vbl"
+path="res://.godot/imported/17_Garden_16x16.png-5c4aa56ec0211997c98aa41cf4ccf423.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilesets/garden/ME_Singles_Garden_16x16_Light_Brown_Statue.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Light_Brown_Statue.png-62873df2ccf20991bf5c1c2bcd93b739.ctex"]
+source_file="res://tilesets/garden/17_Garden_16x16.png"
+dest_files=["res://.godot/imported/17_Garden_16x16.png-5c4aa56ec0211997c98aa41cf4ccf423.ctex"]
 
 [params]
 

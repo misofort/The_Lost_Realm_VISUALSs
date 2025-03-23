@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2wq5xshe2oyi"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Medium_Bench_Vertical.png-fde225d6d4033642752fe386a3b01876.ctex"
+uid="uid://dm565qk55b4im"
+path="res://.godot/imported/Tileset_71_MV.png-332381cd645e943c2607805d6575921d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilesets/garden/ME_Singles_Garden_16x16_Medium_Bench_Vertical.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Medium_Bench_Vertical.png-fde225d6d4033642752fe386a3b01876.ctex"]
+source_file="res://tilesets/garden/Tileset_71_MV.png"
+dest_files=["res://.godot/imported/Tileset_71_MV.png-332381cd645e943c2607805d6575921d.ctex"]
 
 [params]
 
